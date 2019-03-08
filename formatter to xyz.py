@@ -36,10 +36,10 @@ def reader(file_name):
             print(list_objs[i])
             i += 1
 
-    file_output = 'r 0 0.05 xyz.txt'
+    file_output = 'r 0.05 0.075 xyz.txt'
     with open(file_output, 'w') as fd_file:
         for obj in list_objs:
             write_info(obj, fd_file)
     print(i, j)
 
-reader('0 0.05.txt')
+reader('data/raw/0.05 0.075.txt')
