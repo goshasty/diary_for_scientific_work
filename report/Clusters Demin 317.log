@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.29)  19 MAY 2019 20:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.29)  22 MAY 2019 14:21
 entering extended mode
 **"./Clusters Demin 317.tex"
 ("Clusters Demin 317.tex"
@@ -406,40 +406,86 @@ e 218.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\comment\comment.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count102
+\float@exts=\toks29
+\float@box=\box28
+\@float@everytoks=\toks30
+\@floatcapt=\box29
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks31
+\c@algorithm=\count103
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithmicx\algpseudocode.sty"
+Package: algpseudocode 
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithmicx\algorithmicx.sty"
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count104
+\c@ALG@rem=\count105
+\c@ALG@nested=\count106
+\ALG@tlm=\skip49
+\ALG@thistlm=\skip50
+\c@ALG@Lnr=\count107
+\c@ALG@blocknr=\count108
+\c@ALG@storecount=\count109
+\c@ALG@tmpcounter=\count110
+\ALG@tmplength=\skip51
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\comment\comment.sty"
 \CommentStream=\write3
 
-Excluding comment 'comment') ("Clusters Demin 317.aux")
+Excluding comment 'comment') ("Clusters Demin 317.aux"
+
+LaTeX Warning: Label `q' multiply defined.
+
+
+LaTeX Warning: Label `q' multiply defined.
+
+
+LaTeX Warning: Label `q' multiply defined.
+
+)
 \openout1 = `"Clusters Demin 317.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count102
+\scratchcounter=\count111
 \scratchdimen=\dimen125
-\scratchbox=\box28
-\nofMPsegments=\count103
-\nofMParguments=\count104
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count105
+\scratchbox=\box30
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count114
 \MPscratchDim=\dimen126
-\MPnumerator=\count106
-\makeMPintoPDFobject=\count107
-\everyMPtoPDFconversion=\toks30
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks33
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -502,7 +548,7 @@ Package epstopdf Info: Source file: <msu.eps>
 (epstopdf)                    size: 17841 bytes
 (epstopdf)             Command: <epstopdf --outfile=msu-eps-converted-to.pdf ms
 u.eps>
-(epstopdf)             \includegraphics on input line 40.
+(epstopdf)             \includegraphics on input line 45.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -511,24 +557,24 @@ found PDF version <1.7>, but at most version <1.5> allowed
 <msu-eps-converted-to.pdf, id=1, 1188.44pt x 540.0175pt>
 File: msu-eps-converted-to.pdf Graphic file (type pdf)
 <use msu-eps-converted-to.pdf>
-Package pdftex.def Info: msu-eps-converted-to.pdf  used on input line 40.
+Package pdftex.def Info: msu-eps-converted-to.pdf  used on input line 45.
 (pdftex.def)             Requested size: 142.26378pt x 64.64273pt.
-LaTeX Font Info:    Try loading font information for T2A+cmss on input line 49.
+LaTeX Font Info:    Try loading font information for T2A+cmss on input line 54.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\cyrillic\t2acmss.fd"
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 59.
+LaTeX Font Info:    Try loading font information for U+msa on input line 64.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 59.
+LaTeX Font Info:    Try loading font information for U+msb on input line 64.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 59.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 64.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
@@ -541,48 +587,49 @@ converted-to.pdf>] ("Clusters Demin 317.toc")
 \openout4 = `"Clusters Demin 317.toc"'.
 
 
-[1] [2]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 108.
+[1] [2] [3]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 145.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 108.
- [3] [4]
-[5] [6] [7]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 145.
+ [4]
+[5] [6] [7] [8] [9] [10] [11] [12] [13] ("Clusters Demin 317.aux")
 
-LaTeX Warning: Citation `DokSen11' undefined on input line 245.
-
-
-LaTeX Warning: Citation `DokSen15' undefined on input line 245.
-
-("Clusters Demin 317.bbl") [8] ("Clusters Demin 317.aux")
-
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4546 strings out of 492970
- 62541 string characters out of 3135851
- 131324 words of memory out of 3000000
- 8306 multiletter control sequences out of 15000+200000
- 18624 words of font info for 47 fonts, out of 3000000 for 9000
+ 5161 strings out of 492970
+ 71209 string characters out of 3135851
+ 142319 words of memory out of 3000000
+ 8905 multiletter control sequences out of 15000+200000
+ 19407 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,38p,1354b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,5n,38p,2249b,286s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\george\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\l
-abx1440.pk> <C:\Users\george\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a
-\dpi600\larm1095.pk> <C:\Users\george\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
-lh\lh-t2a\dpi600\labx1095.pk> <C:\Users\george\AppData\Local\MiKTeX\2.9\fonts\p
-k\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\george\AppData\Local\MiKTeX\2.
-9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk> <C:\Users\george\AppData\Local\
-MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1200.pk> <C:\Users\george\AppDa
-ta\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lasx1440.pk> <C:\Users\geo
-rge\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "Clusters Demin 317.pdf" (9 pages, 141458 bytes).
+acc1200.pk> <C:\Users\george\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a
+\dpi600\labx1440.pk> <C:\Users\george\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
+lh\lh-t2a\dpi600\larm1095.pk> <C:\Users\george\AppData\Local\MiKTeX\2.9\fonts\p
+k\ljfour\lh\lh-t2a\dpi600\labx1095.pk> <C:\Users\george\AppData\Local\MiKTeX\2.
+9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\george\AppData\Local\
+MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk> <C:\Users\george\AppDa
+ta\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1200.pk> <C:\Users\geo
+rge\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lasx1440.pk> <C:\
+Users\george\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200
+.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/symbols/msbm10.pfb>
+Output written on "Clusters Demin 317.pdf" (14 pages, 273158 bytes).
 PDF statistics:
- 355 PDF objects out of 1000 (max. 8388607)
+ 578 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
